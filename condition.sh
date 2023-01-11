@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo please enter your age here
+echo please enter your age here :
 read age
 
 if [ $age -eq 18 ]
